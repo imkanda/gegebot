@@ -1,0 +1,2 @@
+# gegebot
+GegeBot for Discord
